@@ -1,5 +1,7 @@
 # Dating And Drinking
 
+<img width="1134" alt="Dating vs Drinking" src="https://github.com/akankshalksingh/Dating-And-Drinking/assets/76152292/bea6acc8-ebb3-4fcc-ab95-50950d720c10">
+
 ## Project Highlights
 
 - Interactive Tableau Dashboard: The centerpiece of this project is an interactive Tableau dashboard that goes beyond mere data visualization. It invites users to engage with the data, uncover patterns, and draw their conclusions in an intuitive and user-friendly environment.
